@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-''' Module about a function'''
+
+"""Module of a func to return a list"""
+
+
 def lookup(obj):
-    ''' Function that prints at and mth'''
+    """Func to return a list"""
     return dir(obj)
